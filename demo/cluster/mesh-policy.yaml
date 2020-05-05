@@ -4,5 +4,5 @@ metadata:
   name: "default"
 spec:
   peers:
-  - mtls: 
-      mode: {}
+  - mtls: {}
+#      mode: ISTIO_MUTUAL
