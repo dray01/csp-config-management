@@ -5,3 +5,6 @@ metadata:
   labels:
     environment: live-demo
     istio-injection: disabled
+    LoB: "Demo_gods"
+    ns-owner: "John_Farnham"
+    tool-owner: "CICD_System"

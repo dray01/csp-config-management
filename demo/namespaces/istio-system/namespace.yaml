@@ -4,3 +4,6 @@ metadata:
   name: istio-system 
   labels:
     istio-injection: disabled
+    LoB: "SRE_Leads"
+    ns-owner: "L7_Symphony"
+    tool-owner: "Istioctl"
