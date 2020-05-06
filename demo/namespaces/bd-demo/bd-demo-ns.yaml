@@ -4,7 +4,7 @@ metadata:
   name: bd-demo
   labels:
     environment: live-demo
-    istio-injection: enabled
+    istio-injection: disabled
     LoB: "Demo_gods"
     ns-owner: "John_Farnham"
     tool-owner: "CICD_System"
