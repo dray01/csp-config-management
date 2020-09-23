@@ -4,7 +4,7 @@ metadata:
   name: bd-demo
   labels:
     environment: live-demo
-    istio-injection: enabled
+#    istio-injection: enabled
     LoB: "Central-IT"
     ns-owner: "John_Farnham"
     tool-owner: "tekton_retail"
